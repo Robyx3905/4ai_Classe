@@ -1,5 +1,5 @@
 import java.util.Arrays;
-//Versione 2
+//Versione 2.39
 public class Classe {
 private int nStud,piano;
 private String sede, nomClasse;
